@@ -2,9 +2,9 @@
 
 # Cairo Alves de Carvalho
 
-`Desenvolvedor(a)` · `Python` · `HTML` · `CSS` · `JavaScript`
+`Desenvolvedor` · `Python` · `HTML` · `CSS` · `JavaScript`
 
-[![GitHub followers](https://img.shields.io/github/followers/SEU_USERNAME?style=flat&color=black&labelColor=white&logo=github&logoColor=black)](https://github.com/SEU_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/kakalindin?style=flat&color=black&labelColor=white&logo=github&logoColor=black)](https://github.com/kakalindin)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
 [![YouTube](https://img.shields.io/badge/YouTube-black?style=flat&logo=youtube&logoColor=white)](https://youtube.com/SEU_CANAL)
 
@@ -14,11 +14,9 @@
 
 ## Sobre mim
 
-Escreva aqui um parágrafo sobre você: sua cidade, sua formação, seus interesses em tecnologia e o que você compartilha nas redes sociais.
-
-- Estudando **Ciência de dados** 
+- Estudando **Ciência de Dados**
 - Apaixonado em resolver problemas complexos e banco de dados
-- Compartilho projetos no Linkedin e Youtube
+- Compartilho projetos no LinkedIn e YouTube
 
 ---
 
@@ -39,14 +37,14 @@ Escreva aqui um parágrafo sobre você: sua cidade, sua formação, seus interes
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=333333&include_all_commits=true&count_private=true"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=5&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=333333"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=kakalindin&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=333333&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakalindin&layout=compact&langs_count=5&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=333333"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kakalindin&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333)](https://git.io/streak-stats)
 
 </div>
 
@@ -56,8 +54,8 @@ Escreva aqui um parágrafo sobre você: sua cidade, sua formação, seus interes
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_1&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333)](https://github.com/SEU_USERNAME/NOME_DO_REPO_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_2&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333)](https://github.com/SEU_USERNAME/NOME_DO_REPO_2)
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=kakalindin&repo=NOME_DO_REPO_1&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333)](https://github.com/kakalindin/NOME_DO_REPO_1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=kakalindin&repo=NOME_DO_REPO_2&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333)](https://github.com/kakalindin/NOME_DO_REPO_2)
 
 </div>
 
@@ -68,9 +66,9 @@ Escreva aqui um parágrafo sobre você: sua cidade, sua formação, seus interes
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kakalindin/kakalindin/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kakalindin/kakalindin/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/kakalindin/kakalindin/output/github-contribution-grid-snake.svg"/>
 </picture>
 
 </div>
@@ -79,6 +77,6 @@ Escreva aqui um parágrafo sobre você: sua cidade, sua formação, seus interes
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=black&style=flat&label=Visitantes)
+![Visitors](https://komarev.com/ghpvc/?username=kakalindin&color=black&style=flat&label=Visitantes)
 
 </div>
