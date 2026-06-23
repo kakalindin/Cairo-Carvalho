@@ -77,6 +77,6 @@
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=kakalindin&color=black&style=flat&label=Visitantes)
+![Visitors](https://komarev.com/ghpvc/?username=kakalindin&color=000000&style=flat&label=Visitantes)
 
 </div>
