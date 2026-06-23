@@ -93,12 +93,13 @@ Meu objetivo é evoluir profissionalmente como desenvolvedor, criando soluções
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kakalindin/kakalindin/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kakalindin/kakalindin/output/github-contribution-grid-snake.svg"/>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/kakalindin/kakalindin/output/github-contribution-grid-snake.svg"/>
-</picture>
+## Atividade
 
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kakalindin&bg_color=000000&color=ffffff&line=ffffff&point=888888&area=true&hide_border=true)](https://github.com/kakalindin)
+
+</div>
 </div>
 
 ---
