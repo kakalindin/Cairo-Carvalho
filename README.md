@@ -1,12 +1,11 @@
 <div align="center">
 
-# [Seu Nome]
+# Cairo Alves de Carvalho
 
 `Desenvolvedor(a)` · `Python` · `HTML` · `CSS` · `JavaScript`
 
 [![GitHub followers](https://img.shields.io/github/followers/SEU_USERNAME?style=flat&color=black&labelColor=white&logo=github&logoColor=black)](https://github.com/SEU_USERNAME)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&logoColor=white)](https://instagram.com/SEU_PERFIL)
 [![YouTube](https://img.shields.io/badge/YouTube-black?style=flat&logo=youtube&logoColor=white)](https://youtube.com/SEU_CANAL)
 
 </div>
@@ -17,9 +16,9 @@
 
 Escreva aqui um parágrafo sobre você: sua cidade, sua formação, seus interesses em tecnologia e o que você compartilha nas redes sociais.
 
-- Estudando **[seu curso]** na **[sua faculdade]**
-- Apaixonado(a) por desenvolvimento web e projetos open source
-- Compartilho projetos no YouTube e Instagram
+- Estudando **Ciência de dados** 
+- Apaixonado em resolver problemas complexos e banco de dados
+- Compartilho projetos no Linkedin e Youtube
 
 ---
 
