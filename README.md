@@ -5,8 +5,6 @@
 `Desenvolvedor` · `Python` · `HTML` · `CSS` · `JavaScript`
 
 [![GitHub followers](https://img.shields.io/github/followers/kakalindin?style=flat&color=black&labelColor=white&logo=github&logoColor=black)](https://github.com/kakalindin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
-[![YouTube](https://img.shields.io/badge/YouTube-black?style=flat&logo=youtube&logoColor=white)](https://youtube.com/SEU_CANAL)
 
 </div>
 
@@ -14,9 +12,37 @@
 
 ## Sobre mim
 
-- Estudando **Ciência de Dados**
-- Apaixonado em resolver problemas complexos e banco de dados
-- Compartilho projetos no LinkedIn e YouTube
+Olá! Sou Cairo Alves de Carvalho.
+
+Atualmente estudo Ciência de Dados e Desenvolvimento de Software, com foco em Python, desenvolvimento web e automação.
+
+Tenho experiência na criação de projetos voltados para soluções reais, sempre buscando desenvolver sistemas funcionais, organizados e escaláveis.
+
+### Áreas de atuação
+
+- 💰 Sistemas financeiros
+- 🐍 Automações em Python
+- 🌐 Sites institucionais e Landing Pages
+- 🤖 Chatbots para atendimento
+- 📊 Ferramentas de análise de dados
+
+Meu objetivo é evoluir profissionalmente como desenvolvedor, criando soluções que gerem valor para pessoas e empresas.
+
+---
+
+## Atualmente
+
+🚀 Fundador da KR
+
+💻 Desenvolvimento de sites modernos e profissionais
+
+🤖 Criação de chatbots para atendimento automatizado
+
+📊 Soluções de automação e análise de dados
+
+🐍 Desenvolvimento de sistemas e ferramentas em Python
+
+⚡ Transformando processos manuais em soluções digitais inteligentes
 
 ---
 
@@ -38,6 +64,7 @@
 <div align="center">
 
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=kakalindin&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=333333&include_all_commits=true&count_private=true"/>
+
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kakalindin&layout=compact&langs_count=5&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=333333"/>
 
 </div>
@@ -52,12 +79,13 @@
 
 ## Projetos em Destaque
 
-<div align="center">
+🔹 Sistema Financeiro em Python
 
-[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=kakalindin&repo=NOME_DO_REPO_1&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333)](https://github.com/kakalindin/NOME_DO_REPO_1)
-[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=kakalindin&repo=NOME_DO_REPO_2&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333)](https://github.com/kakalindin/NOME_DO_REPO_2)
+🔹 Site Institucional KR
 
-</div>
+🔹 Chatbot para Atendimento
+
+🔹 Ferramentas de Automação
 
 ---
 
