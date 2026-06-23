@@ -1,118 +1,85 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:6366f1&height=200&section=header&text=Cairo%20Carvalho&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<div align="center">
 
-# 👨‍💻 Cairo Carvalho
+# [Seu Nome]
 
-💻 **Desenvolvedor Júnior | Python | Web Development**
+`Desenvolvedor(a)` · `Python` · `HTML` · `CSS` · `JavaScript`
 
-Sou um **desenvolvedor de 19 anos apaixonado por tecnologia e programação**.  
-Meu foco principal é **Python**, linguagem que utilizo para desenvolver projetos, automações e aprimorar minha lógica de programação.
+[![GitHub followers](https://img.shields.io/github/followers/SEU_USERNAME?style=flat&color=black&labelColor=white&logo=github&logoColor=black)](https://github.com/SEU_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU_PERFIL)
+[![Instagram](https://img.shields.io/badge/Instagram-black?style=flat&logo=instagram&logoColor=white)](https://instagram.com/SEU_PERFIL)
+[![YouTube](https://img.shields.io/badge/YouTube-black?style=flat&logo=youtube&logoColor=white)](https://youtube.com/SEU_CANAL)
 
-Também possuo conhecimentos em **HTML, CSS e JavaScript**, que utilizo para desenvolver interfaces web e complementar meus projetos.
-
-🚀 Atualmente estou focado em:
-- Aprender mais sobre **Python**
-- Criar **projetos práticos**
-- Evoluir como **desenvolvedor júnior**
-
-📺 Também compartilho meu aprendizado no YouTube:  
-👉 https://www.youtube.com/@imcacaroto
+</div>
 
 ---
 
-# 🚀 Projetos em Destaque
+## Sobre mim
 
-🧠 Alguns projetos que desenvolvi ou estou desenvolvendo:
+Escreva aqui um parágrafo sobre você: sua cidade, sua formação, seus interesses em tecnologia e o que você compartilha nas redes sociais.
 
-### 🤖 Projeto IA em Python
-Projeto de chatbot utilizando Python para interação com usuários.
-
-### 🧮 Calculadora em Python
-Projeto simples focado em **lógica de programação e estruturas condicionais**.
-
-### ⚙️ Automação com Python
-Scripts para automatizar tarefas utilizando bibliotecas como **PyAutoGUI**.
-
-*(adicione aqui links dos seus repositórios depois)*
+- Estudando **[seu curso]** na **[sua faculdade]**
+- Apaixonado(a) por desenvolvimento web e projetos open source
+- Compartilho projetos no YouTube e Instagram
 
 ---
 
-# 🧠 Tecnologias que utilizo
+## Tecnologias
 
-<p align="left">
+<div align="center">
 
-<img 
-alt="Python"
-title="Python"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-/>
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white)
 
-<img 
-alt="HTML"
-title="HTML"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-/>
-
-<img 
-alt="CSS"
-title="CSS"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-/>
-
-<img 
-alt="JavaScript"
-title="JavaScript"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-/>
-
-<img 
-alt="Git"
-title="Git"
-width="40px"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
-
-</p>
+</div>
 
 ---
 
-# 📈 Estatísticas do GitHub
+## Estatísticas
 
-<p align="center">
+<div align="center">
 
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight&include_all_commits=true"
-/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=dark&bg_color=000000&text_color=ffffff&icon_color=ffffff&title_color=ffffff&border_color=333333&include_all_commits=true&count_private=true"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=5&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=333333"/>
 
-<img
-height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&langs_count=6&theme=tokyonight"
-/>
+</div>
 
-</p>
+<div align="center">
 
----
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=333333)](https://git.io/streak-stats)
 
-# 🔥 Sequência de Contribuições
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=Cairo Carvalho&theme=tokyonight"/>
-</p>
+</div>
 
 ---
 
-# 📬 Contato
+## Projetos em Destaque
 
-📺 YouTube  
-https://www.youtube.com/@imcacaroto
+<div align="center">
 
-💻 GitHub  
-https://github.com/kakalindin
+[![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_1&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333)](https://github.com/SEU_USERNAME/NOME_DO_REPO_1)
+[![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_2&theme=dark&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333)](https://github.com/SEU_USERNAME/NOME_DO_REPO_2)
+
+</div>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0ea5e9&height=120&section=footer"/>
+## Contribuições
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg"/>
+  <img alt="snake animation" src="https://raw.githubusercontent.com/SEU_USERNAME/SEU_USERNAME/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+![Visitors](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=black&style=flat&label=Visitantes)
+
+</div>
