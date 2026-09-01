@@ -37,6 +37,6 @@ Para cada projeto, vale adicionar 1-2 linhas explicando: qual problema ele resol
 ## Contato
 
 - GitHub: [@kakalindin](https://github.com/kakalindin)
-- E-mail: seu-email@exemplo.com
-- LinkedIn: linkedin.com/in/seu-usuario
+- E-mail: c4irogamer@gmail.com
+- LinkedIn: linkedin.com/in/Cairo Alves
 
