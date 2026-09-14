@@ -28,7 +28,6 @@ Fundador da KR, onde desenvolvo sites institucionais, chatbots de atendimento e 
 | [Site KR](https://github.com/kakalindin/REPO-2) | Site institucional para presença digital de empresas | HTML, CSS, JavaScript |
 | [Chatbot de Atendimento](https://github.com/kakalindin/REPO-3) | Automação de atendimento ao cliente | Python |
 
-Para cada projeto, vale adicionar 1-2 linhas explicando: qual problema ele resolve, uma decisão técnica relevante que você tomou, e o link para uma demo (se existir). Isso conta muito mais que qualquer badge.
 
 ## Estatísticas
 
