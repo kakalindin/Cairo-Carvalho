@@ -29,13 +29,18 @@ Fundador da **KR**, onde desenvolvo sites institucionais, chatbots de atendiment
 
 > Adicione aqui o Sistema Financeiro, o Site KR e o Chatbot de Atendimento assim que estiverem em repositórios públicos — hoje eles ainda não aparecem no seu GitHub.
 
-## Estatísticas
+## 🚀 Objetivos
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=kakalindin&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+-  Aprofundar conhecimentos em Ciência de Dados e Desenvolvimento de Software
+-  Expandir o Site KR e as automações para pequenas empresas
+-  Dominar Python avançado (POO, testes automatizados, boas práticas de código)
+-  Evoluir em desenvolvimento web full stack
+-  Conquistar minha primeira oportunidade como Desenvolvedor Junior
+-  Contribuir com projetos open source
 
 ## Contato
 
 - GitHub: [@kakalindin](https://github.com/kakalindin)
 - E-mail: c4irogamer@gmail.com
-- LinkedIn: [linkedin.com/in/SEU-SLUG-AQUI](https://linkedin.com/in/SEU-SLUG-AQUI)
+  
 
