@@ -2,7 +2,7 @@
 
 Desenvolvedor Python | Automação | Sistemas de dados
 
-[GitHub](https://github.com/kakalindin) · [LinkedIn](https://linkedin.com/in/SEU-SLUG-AQUI) · [E-mail](mailto:c4irogamer@gmail.com)
+[GitHub](https://github.com/kakalindin) · [LinkedIn](https://www.linkedin.com/in/cairo-alves-43334135a) · [E-mail](mailto:c4irogamer@gmail.com)
 
 ## Sobre
 
@@ -31,16 +31,16 @@ Fundador da **KR**, onde desenvolvo sites institucionais, chatbots de atendiment
 
 ## 🚀 Objetivos
 
--  Aprofundar conhecimentos em Ciência de Dados e Desenvolvimento de Software
--  Expandir o Site KR e as automações para pequenas empresas
--  Dominar Python avançado (POO, testes automatizados, boas práticas de código)
--  Evoluir em desenvolvimento web full stack
--  Conquistar minha primeira oportunidade como Desenvolvedor Junior
--  Contribuir com projetos open source
+- Aprofundar conhecimentos em Ciência de Dados e Desenvolvimento de Software
+- Expandir o Site KR e as automações para pequenas empresas
+- Dominar Python avançado (POO, testes automatizados, boas práticas de código)
+- Evoluir em desenvolvimento web full stack
+- Conquistar minha primeira oportunidade como Desenvolvedor Junior
+- Contribuir com projetos open source
 
 ## Contato
 
 - GitHub: [@kakalindin](https://github.com/kakalindin)
 - E-mail: c4irogamer@gmail.com
-  
+- LinkedIn: [linkedin.com/in/cairo-alves-43334135a](https://www.linkedin.com/in/cairo-alves-43334135a)
 
