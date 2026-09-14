@@ -2,13 +2,15 @@
 
 Desenvolvedor Python | Automação | Sistemas de dados
 
-[GitHub](https://github.com/kakalindin)
+[GitHub](https://github.com/kakalindin) · [LinkedIn](https://linkedin.com/in/SEU-SLUG-AQUI) · [E-mail](mailto:c4irogamer@gmail.com)
 
 ## Sobre
 
 Estudante de Ciência de Dados e Desenvolvimento de Software, com foco em Python, automação e desenvolvimento web. Construo sistemas voltados para problemas reais — controle financeiro, automação de tarefas repetitivas e integração de dados — priorizando código organizado e escalável.
 
-Fundador da KR, onde desenvolvo sites institucionais, chatbots de atendimento e soluções de automação para pequenas empresas.
+Fundador da **KR**, onde desenvolvo sites institucionais, chatbots de atendimento e soluções de automação para pequenas empresas.
+
+🟢 Disponível para projetos freelance e oportunidades como desenvolvedor Junior.
 
 ## Stack
 
@@ -20,14 +22,12 @@ Fundador da KR, onde desenvolvo sites institucionais, chatbots de atendimento e 
 
 ## Projetos
 
-> Substitua os itens abaixo pelos seus repositórios reais. Cada linha deve linkar para um repo existente — nada de placeholder.
-
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [Sistema Financeiro](https://github.com/kakalindin/REPO-1) | Controle de receitas, despesas e cálculos financeiros | Python |
-| [Site KR](https://github.com/kakalindin/REPO-2) | Site institucional para presença digital de empresas | HTML, CSS, JavaScript |
-| [Chatbot de Atendimento](https://github.com/kakalindin/REPO-3) | Automação de atendimento ao cliente | Python |
+| [Comparador de Preços](https://github.com/kakalindin/COMPARADOR-DE-PRE-OS-) | Comparação de preços de produtos usando a API do Mercado Livre — permite pesquisar dois produtos e comparar seus valores | Python |
+| [Códigos & Criptos](https://github.com/kakalindin/C-DIGOS-CRIPTOS) | Projetos e experimentos de programação, incluindo scripts relacionados a criptomoedas | Python |
 
+> Adicione aqui o Sistema Financeiro, o Site KR e o Chatbot de Atendimento assim que estiverem em repositórios públicos — hoje eles ainda não aparecem no seu GitHub.
 
 ## Estatísticas
 
@@ -37,5 +37,5 @@ Fundador da KR, onde desenvolvo sites institucionais, chatbots de atendimento e 
 
 - GitHub: [@kakalindin](https://github.com/kakalindin)
 - E-mail: c4irogamer@gmail.com
-- LinkedIn: linkedin.com/in/Cairo Alves
+- LinkedIn: [linkedin.com/in/SEU-SLUG-AQUI](https://linkedin.com/in/SEU-SLUG-AQUI)
 
